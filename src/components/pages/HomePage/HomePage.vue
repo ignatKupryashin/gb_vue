@@ -1,7 +1,7 @@
 <template>
   <div>
       <HeaderComponent/>
-      <HomePageBaner/>
+      <HomePageBanner/>
       <HomePageProject/>
       <HomePageCounter/>
       <HomePageArticles/>

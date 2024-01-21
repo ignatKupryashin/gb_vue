@@ -44,6 +44,7 @@ export default {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  flex-grow: 0;
 
   &__logo {
     display: flex;
